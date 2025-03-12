@@ -1,4 +1,4 @@
-# Download link - https://telegra.ph/MaraudersHack-03-12
+# Download link - https://telegra.ph/ScumHack-03-12
 
 # Functions
 Functions
